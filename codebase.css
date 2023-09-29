@@ -1,0 +1,455 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.code {
+    width: 134px;
+    height: auto;
+}
+.code img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold; 
+    color: #2b2a2f;
+    padding: 0 22px;
+}
+.navbar li{
+    list-style: none;
+}
+.hiredev a{
+    color: #fff;
+    background-color: #4e0fea;
+    padding: 7px 14px;
+    border-radius: 5px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.codeflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 23px;
+}
+.the {
+    width: 501px;
+    color: #2b2a2f;
+    font-size: 24px;
+
+}
+.the p{
+    color: #2b2a2f;
+    font-size: 15px;
+    margin: 13px 0 23px;
+}
+.the a{
+    color: #fff;
+    background-color: #4E0FEA;
+    font-size: 21px;
+    text-decoration: none;
+    padding: 7px 14px;
+    border-radius: 5px;    
+}
+.girl {
+    width: 510px;
+    height: auto;
+   
+}
+.girl img{
+    width: 100%;
+    height: 100%;
+   
+}
+.codeflex2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+.para p{
+    color: #2b2a2f;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 18px;
+    font-weight: bold;
+}
+.dree{
+    width: 70px;
+    height: auto;
+}
+.dree img{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+}
+
+.coin{
+    width: 140px;
+    height: auto;
+}
+.coin img{
+    width: 100%;
+    height: 100%;
+}
+.redlist{
+    width: 140px;
+    height: auto;
+}
+.redlist img{
+    width: 100%;
+    height: 100%;
+}
+.calander{
+    width: 175px;
+    height: auto;
+}
+.calander img{
+    width: 100%;
+    height: 100%;
+}
+.dreeflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4rem 0px;
+    gap: 3rem;
+}
+.meet{
+    color: #2b2a2f;
+    font-size: 31px;
+    text-align: center;
+}
+
+.box {
+    width: 500px;
+    height: 520px;
+    border: 1px solid black;
+    padding: 16px 20px;
+    margin-right: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.boximg{
+    width: 100px;
+    height: auto;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+    margin-left: 5.4rem;
+}
+.box h5{
+    color: #2b2a2f;
+    padding-top: 10px;
+}
+.box p{
+    color: #2b2a2fbf;
+    text-align: start;
+    font-size: 18px;
+    padding: 15px 19px 44px;
+}
+.box span {
+    color: white;
+    background: grey;
+    padding: 1px 7px;
+    border-radius: 9px;
+}
+.boxpy{
+    margin-top: 12px;
+}
+.box li{
+    list-style: none;
+}
+.boxflex{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 0 145px;
+}
+.background{
+    width: 100%;
+    height: 65rem;
+    background: url("https://www.codebase.com/wp-content/uploads/2022/04/our-commitment-bg-1.jpeg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto; */
+}
+.moneyimg{
+    width: auto;
+    height: auto;
+}
+.moneyimg img{
+    width: 100%;
+    height: 100%;
+}
+.badbox{
+    width: 380px;
+    height: 350px;
+    background-color: #2b2a2f82;
+    text-align: center;
+    font-size: 50px;
+    padding: 0 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.badbox img{
+    margin-top: 40px;
+    width: 100px;
+}
+.badbox h3{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 9px 0px;
+}
+.badbox p{
+    font-size: 23px;
+    color: white;
+}
+.badboxflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 81px;
+}
+.boxflex1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fast{
+    width: 380px;
+    height: 350px;
+    background-color: #2b2a2f82;
+    text-align: center;
+    font-size: 50px;
+    padding: 0 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 45px;
+}
+
+.fast img{
+    margin-top: 40px;
+    width: 100px;
+}
+.fast h3{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 9px 0px;
+}
+.fast p{
+    font-size: 23px;
+    color: white;
+}
+.badboxflex2 {
+    text-align: -webkit-center;
+}
+.top {
+    color: #2b2a2f;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 26px;  
+}
+.conimg{
+    width: 60px;
+    height: 60px;
+}
+
+.con img{
+    width: 100%;
+    height: 100%;
+}
+.con{
+    width: 290px;
+    height: 125px;
+    margin-top: 2rem;
+}
+.con h2{
+    font: 18px;
+    padding: 10px 10px 10px 0px;
+    font-weight: bolder;
+}
+.con p{
+    color: #2b2a2f;
+    font-size: 18px;
+    text-align: start;
+}
+.conflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.con2{
+    width: 300px;
+    height: 100px;
+    margin-top: 160px;
+}
+.con2 img{
+    width: 100%;
+    height: 100%;
+}
+.con2 h2{
+    font: 18px;
+    padding: 10px 10px 10px 0px;
+    font-weight: bolder;
+}
+.con2 p{
+    color: #2b2a2f;
+    font-size: 18px;
+    text-align: start;
+}
+.conflex2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3rem;
+}
+.topback{
+    width: 100%;
+    height: 55rem;
+    background: #f1f1f1;
+}
+.hire{
+    color: #2b2a2f;
+    font-size: 29px;
+    text-align: center;
+    padding: 9px;
+}
+.hireimg {
+    width: 632px;
+    height: auto;
+    object-fit: cover;
+}
+.hireimg img {
+    width: 100%;
+    height: 100%;
+}
+.hirepoint{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    border: 8px solid #4E0FEA;
+    color: #4E0FEA;
+}
+.hirepointmainflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hirepara h3{
+    width: 350px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.hirepara p{
+    color: #2b2a2f;
+    font-size: 17px;
+    width: 345px;
+}
+.h1flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 33px 26px;
+    gap: 18px;
+}
+.join{
+    width: 100%;
+    height: 270px;
+    background-color: #5f25f0;
+    text-align: center;
+}
+.join h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 22px 0 39px 0;
+}
+.hireback a{
+    color: #fff;
+    background-color: #4e0fea;
+    padding: 5px 11px;
+    margin: 0 22px;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: bold;
+}
+.hireback span{
+    color: white;
+    font-size: 20px;
+}
+.hirebackflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    width: 100%;
+    height: 320px;
+    background-color:#4e0fea;
+}
+.join2 {
+    width: 185px;
+    margin: 0 9.8rem;
+}
+.join2 img{
+    width: 100%;
+    height: 100%;
+}
+.blankline{
+    width: 77%;
+    border-bottom: 1px solid white;
+    margin: auto;
+}
+.social_icon a {
+    color: white;
+    font-size: 24px;
+}
+.social_icon p{
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.social_icon span{
+        color: #ffffffb8;
+    font-size: 10px;
+}
+.service_page a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.social_flex a{
+    padding: 7px;
+}
+.social_flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 9.7rem;
+}
+.service_page {
+    padding-bottom: 46px;
+}
